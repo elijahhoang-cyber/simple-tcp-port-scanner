@@ -15,8 +15,6 @@
 
 ## Usage
 
-## Usage
-
 ```bash
 python3 port_scanner.py
 ```
